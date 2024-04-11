@@ -1,22 +1,42 @@
-# Aplicativo Web de Criação e Pagamento de Cobranças PIX
+# Desafio Técnico: Aplicativo Web de Criação e Pagamento de Cobranças PIX
 
-### Descrição
-Este projeto consiste em um aplicativo web que permite criar e realizar pagamento de cobranças PIX. O aplicativo utilizará Vue.js para o frontend e fará chamadas à API do delbank.
+## Clonar Repositório
+```
+git clone https://github.com/Arturstriker3/test-delbank
+```
 
-### Requisitos Técnicos
-1. Utilizar Vue.js no frontend.
-2. Realizar consumo a API de PIX do delbank.
-3. Implementar uma interface para geração de cobrança PIX.
-4. Exibir QR code de conbrança gerada.
-5. Implementar interface para pagamento de cobrança PIX.
-6. Tratar possíveis erros de forma adequada e exibir mensagens informativas para o usuário.
-7. Deve ser feito um backend para consumir a api do PIX, não consumir diretamente do frontend (Fica a critério do usuário a linguagem).
-8. O projeto deve conter instruções de como executar.
-9. No projeto deve ser possível visualizar as transações realizadas.
-10. No projeto deve lidar com autenticação do usuário.
+## Abrir o teste
+```
+cd .\test-delbank\ 
+```
 
-### Conclusão
-Ao concluir projeto ele, deve ser aberto um pull request para o mesmo. O projeto tem um prazo de dois dias apartir do recebimento.
+## Instalação do Projeto
+```
+npm install
+```
 
-### Links de referência:
-[Documentação](https://docs.delbank.com.br/reference/autentica%C3%A7%C3%A3o)
+### Compilar e rodar Front e Back
+```
+npm run dev
+```
+
+### Desafio Técnico: Aplicativo Web de Criação e Pagamento de Cobranças PIX
+ 
+ Nesse projeto o foco foi desenvolver uma aplicação web que permite criar e realizar pagamento de cobranças PIX. O aplicativo usa Vue.js para o frontend e faz chamadas à API do delbank por meio de uma api intermediária feita com Node.
+ 
+ **O que utilizei**
+* HTML e CSS;
+* Bootstrap;
+* Linguagem JavaScript;
+* FrameWork Vuejs;
+* Biblioteca Pinia para Vue.js ;
+* Biblioteca Vue Router para Vue.js ;
+* Biblioteca vee-validate e yup para Validação de Forms;
+* Biblioteca Axios para integração via Api ;
+* Node.js e Framework Express.js;
+
+**Identidade Visual Original**
+<div align="center">
+<img src="https://github.com/Arturstriker3/test-delbank/assets/59231364/eaa00b48-96f4-4b3d-84e5-64f50ffc31d7" width="auto" height="auto" />
+</div>
+<br/>
