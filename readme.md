@@ -16,7 +16,7 @@ Este projeto consiste em um aplicativo web que permite criar e realizar pagament
 10. No projeto deve lidar com autenticação do usuário.
 
 ### Conclusão
-Ao concluir projeto ele, deve ser aberto um pull request para o mesmo. O projeto tem um prazo de dois dias apartir do recebimento.
+Ao concluir projeto ele, deve ser aberto um pull request para o mesmo. O projeto tem um prazo de uma semana apartir do recebimento.
 
 ### Links de referência:
 [Documentação](https://docs.delbank.com.br/reference/autentica%C3%A7%C3%A3o)
